@@ -1,0 +1,10 @@
+
+#headerBackground {
+    max-width: 100%;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#943A6f, #ffffff);
+    background-size: cover;
+    background-position: auto;
+    
+}
